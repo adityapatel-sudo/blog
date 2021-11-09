@@ -1,8 +1,8 @@
 module.exports = {
   // Basic site information (required)
-  name: 'twan.dev',
-  domain: 'twan.dev',
-  url: 'https://twan.dev',
+  name: 'aditya patel',
+  domain: 'unkown',
+  url: 'unkown',
   description: 'Twan Kruiswijk personal blog about life, music, code and more.',
   fathomCode: 'TBSAIDMS',
 
